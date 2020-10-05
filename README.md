@@ -1,7 +1,5 @@
 # **VueJS resources**
 
----
-
 ## Vue v2
 
 - [Docs](https://vuejs.org/v2/guide/)
